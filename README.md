@@ -25,10 +25,6 @@ This repository contains the code for a single-page website developed during my 
 
 This single-page website project serves as a practical demonstration of HTML and CSS skills acquired during my internship. It showcases effective use of design principles to create a cohesive and informative web presence for 1stop.ai.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 - **Email**: (mailto:sridhar.chinthaparthi@gmail.com)
